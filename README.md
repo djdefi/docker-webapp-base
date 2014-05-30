@@ -9,6 +9,6 @@ Trusted Build
 
 Build
 ==================
-    docker build -t djdefi/webapp-base .
+    docker build -t djdefi/docker-webapp-base .
     
 
