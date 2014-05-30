@@ -1,9 +1,9 @@
 #
-# Howto build: docker build -t ncirms/webapp .
+# Howto build: docker build -t djdefi/webapp .
 # VERSION 0.0.1
 
 FROM ubuntu:precise
-MAINTAINER Ryan Trauntvein <rtrauntvein@novacoast.com>
+MAINTAINER Ryan Trauntvein <djdefi@gmail.com>
 
 # Set the env variable DEBIAN_FRONTEND to noninteractive
 ENV DEBIAN_FRONTEND noninteractive
