@@ -1,5 +1,5 @@
 #
-# Howto build: docker build -t djdefi/webapp .
+# Howto build: docker build -t djdefi/docker-webapp-base .
 # VERSION 0.0.1
 
 FROM ubuntu:precise
@@ -30,4 +30,3 @@ ENV APACHE_RUN_USER www-data
 ENV APACHE_RUN_GROUP www-data
 ENV APACHE_LOG_DIR /var/log/apache2/
 ENV APACHE_PID_FILE /var/apache.pid
-
