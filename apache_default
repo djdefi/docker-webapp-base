@@ -1,5 +1,5 @@
 <VirtualHost *:80>
-        ServerAdmin support@novacoast.com
+        ServerAdmin root@localhost
 
         DocumentRoot /var/www
         RewriteEngine on
