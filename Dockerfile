@@ -3,7 +3,7 @@
 # VERSION 0.0.1
 
 FROM ubuntu:precise
-MAINTAINER Ryan Trauntvein <djdefi@gmail.com>
+MAINTAINER DJ DeFi <djdefi@gmail.com>
 
 # Set the env variable DEBIAN_FRONTEND to noninteractive
 ENV DEBIAN_FRONTEND noninteractive
